@@ -3,7 +3,7 @@ import { Octokit } from '@octokit/rest';
 import './App.css';
 
 const octokit = new Octokit({
-  auth: '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'
+  auth: ''
 });
 
 function App() {
